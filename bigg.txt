@@ -1,3 +1,4 @@
 hundred
 thousand
 ten thousand
+lakh
